@@ -8,3 +8,9 @@ build/*
 _C.*
 outputs/*
 checkpoints/*.pt
+casual_video
+davis_dino
+kinetics_dino
+raw_video
+tapvid_davis
+tapvid_benchmark
